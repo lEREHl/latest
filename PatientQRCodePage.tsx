@@ -4,7 +4,7 @@ import { Box, Paper, Typography, Button, Divider } from '@mui/material';
 import ReactQR from 'react-qr-code';
 
 const patientInfo = {
-  name: "John Doe",
+  name: "Arya P",
   age: 45,
   dob: "1978-05-14",
   address: "123 Main St, Springfield, USA",

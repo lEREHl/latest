@@ -26,7 +26,7 @@ export const PatientProfile = () => {
   const [tabValue, setTabValue] = React.useState<number>(0);
   const [openDialog, setOpenDialog] = React.useState<boolean>(false);
   const [formData, setFormData] = React.useState({
-    name: "John Doe",
+    name: "Arya P",
     age: 45,
     dob: "1978-05-14",
     address: "123 Main St, Springfield, USA",

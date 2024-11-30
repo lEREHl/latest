@@ -3,7 +3,7 @@ import { Box, Paper, Typography, Button } from '@mui/material';
 import ReactQR from 'react-qr-code'; // Correct import for react-qr-code
 
 const patientInfo = {
-  name: "John Doe",
+  name: "Arya P",
   age: 45,
   dob: "1978-05-14",
   address: "123 Main St, Springfield, USA",
@@ -13,7 +13,7 @@ const patientInfo = {
   ],
   allergies: ["Penicillin", "Shellfish"], // Add allergies data if needed
   emergencyContact: {
-    name: "Jane Doe",
+    name: "Aryan ",
     relationship: "Wife",
     phone: "555-1234",
   },
